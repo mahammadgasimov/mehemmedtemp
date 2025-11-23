@@ -1,5 +1,4 @@
 
-
 # Hello, there _ <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
                       I am Mahammad Gasimov. 
 <div align="center">
